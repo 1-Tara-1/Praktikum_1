@@ -57,7 +57,7 @@ with open(model_path, "rb") as f:
 
 # === 2) Judul Aplikasi ===
 st.title("Prediksi Bunga Iris | Perceptron")
-st.title("<NAMA> / <NPM>") ##isikan dengan nama dan npm praktikan
+st.title("Qintara Wiksa Satyawira / 230712380") ##isikan dengan nama dan npm praktikan
 st.write("Masukkan panjang sepal dan petal untuk memprediksi jenis bunga (Setosa=0, Versicolor=1).")
 
 # === 3) Input User ===
